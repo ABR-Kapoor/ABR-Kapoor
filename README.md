@@ -17,7 +17,7 @@ I'm an industrial-level **Software and Data Engineer** with a robust background 
 * **Frameworks/Libraries:** React.js, Next.js, Node.js, Express.js, Spring Boot, Tailwind CSS, Scikit-learn, Pandas, NumPy, Matplotlib
 * **Cloud/DevOps:** AWS (EC2, S3), Docker, Firebase, Git/GitHub
 * **Databases:** MongoDB, PostgreSQL, Firebase Firestore
-* **Developer Tools:** Git, VS Code, Figma, REST APIs, Telegram Bot API, Postman
+* **Developer Tools:** Git, VS Code, Figma, REST APIs, FastAPI Telegram Bot API, Postman
 
 ---
 
